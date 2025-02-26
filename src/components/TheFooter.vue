@@ -18,7 +18,7 @@ export default {
         {
           name: "Github",
           icon: "github",
-          href: "https://github.com/Hovhannes1991"
+          href: "https://github.com/HovhannesKeshishyan"
         },
         {
           name: "Facebook",

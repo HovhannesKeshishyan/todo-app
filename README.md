@@ -39,4 +39,4 @@ npm run build
 
 ### Github URL
 
-[github.com/Hovhannes1991/todo-app](https://github.com/Hovhannes1991/todo-app)
+[github.com/HovhannesKeshishyan/todo-app](https://github.com/HovhannesKeshishyan/todo-app)
